@@ -1,0 +1,3376 @@
+{
+  "ErrorCode": 1,
+  "ErrorStatus": "Success",
+  "Message": "Ok",
+  "MessageData": {},
+  "Response": {
+    "data": {
+      "bonuses": [
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 207150,
+          "cardName": "Shank",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Fallen-csprites-sm_eb898de96de2b55208a200b9a159bf5f.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 375.0,
+          "value": 647.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 207130,
+          "cardName": "Dreg",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 145,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Fallen-csprites-sm_eb898de96de2b55208a200b9a159bf5f.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 1000.0,
+          "value": 1655.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 207120,
+          "cardName": "Vandal",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 435,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Fallen-csprites-sm_eb898de96de2b55208a200b9a159bf5f.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 750.0,
+          "value": 1219.0
+        },
+        {
+          "bonusDescription": "Extra materials drop from material nodes in this destination.",
+          "bonusName": "Resource Income Bonus ",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 402020,
+          "cardName": "Ishtar Sink",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Venus-csprites-sm_af1464f2b6fc4c24b1fb1755d47c63d9.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 580,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 2960.0
+        },
+        {
+          "bonusDescription": "Extra materials drop from material nodes in this destination.",
+          "bonusName": "Resource Income Bonus ",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 404020,
+          "cardName": "Old Russia",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Earth-csprites-sm_9801a25b67dbf0d4950b70d33210cf8d.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 870,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 2590.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 201130,
+          "cardName": "Thrall",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 145,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 2030,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 750.0,
+          "value": 742.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 203120,
+          "cardName": "Goblin",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 145,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Vex-csprites-sm_f28adfd71b3d85563d6070648cc8305b.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1305,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 1250.0,
+          "value": 1048.0
+        },
+        {
+          "bonusDescription": "Extra materials drop from material nodes in this destination.",
+          "bonusName": "Resource Income Bonus ",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 405020,
+          "cardName": "The Ocean of Storms",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Moon-csprites-sm_40ab5424ba863506f7165d0540aa208f.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 870,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 1911.0
+        },
+        {
+          "bonusDescription": "Cloaks, marks, and bonds can now drop for completing any Strike.",
+          "bonusName": "Activity Reward Bonus",
+          "bonusRank": {
+            "rank": 1,
+            "statId": 1
+          },
+          "cardId": 601010,
+          "cardName": "Strikes Introduction",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 0,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Strikes-csprites-sm_74870cfcc6984f1f166139c4d53f1c3d.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Completions",
+          "threshold": 50.0,
+          "value": 36.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 201110,
+          "cardName": "Knight",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 435,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 2030,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 250.0,
+          "value": 177.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 207100,
+          "cardName": "Captain",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 580,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Fallen-csprites-sm_eb898de96de2b55208a200b9a159bf5f.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 250.0,
+          "value": 160.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 201090,
+          "cardName": "Acolyte",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 2030,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 1250.0,
+          "value": 783.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 201120,
+          "cardName": "Wizard",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 725,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 2030,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 125.0,
+          "value": 68.0
+        },
+        {
+          "bonusDescription": "Extra materials drop from material nodes in this destination.",
+          "bonusName": "Resource Income Bonus ",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 406020,
+          "cardName": "Meridian Bay",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Mars-csprites-sm_8284c3c04d2e92e2762a22736e5908d4.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 870,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 1299.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 205120,
+          "cardName": "Legionary",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 145,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Cabal-csprites-sm_68d8b67449fa4bffd07ab5666df72fb2.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 750.0,
+          "value": 381.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 203150,
+          "cardName": "Harpy",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 435,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Vex-csprites-sm_f28adfd71b3d85563d6070648cc8305b.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1305,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 375.0,
+          "value": 177.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 203130,
+          "cardName": "Hobgoblin",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Vex-csprites-sm_f28adfd71b3d85563d6070648cc8305b.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1305,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 500.0,
+          "value": 216.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 207140,
+          "cardName": "Servitor",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 725,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Fallen-csprites-sm_eb898de96de2b55208a200b9a159bf5f.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 125.0,
+          "value": 53.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 302050,
+          "cardName": "Scout Rifles",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 1015,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/PrimaryWeapons-csprites-sm_88125af7f04612e8f5e4c0db1725ce61.jpg",
+            "sheetSize": {
+              "height": 435,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 5000.0,
+          "value": 2057.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 203140,
+          "cardName": "Minotaur",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 580,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Vex-csprites-sm_f28adfd71b3d85563d6070648cc8305b.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1305,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 250.0,
+          "value": 95.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 302070,
+          "cardName": "Pulse Rifles",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 435,
+              "y": 145
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/PrimaryWeapons-csprites-sm_88125af7f04612e8f5e4c0db1725ce61.jpg",
+            "sheetSize": {
+              "height": 435,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 5000.0,
+          "value": 1610.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 205130,
+          "cardName": "Phalanx",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 725,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Cabal-csprites-sm_68d8b67449fa4bffd07ab5666df72fb2.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 625.0,
+          "value": 173.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 205110,
+          "cardName": "Psion",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 580,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Cabal-csprites-sm_68d8b67449fa4bffd07ab5666df72fb2.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 750.0,
+          "value": 187.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 302010,
+          "cardName": "Auto Rifles",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 0,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/PrimaryWeapons-csprites-sm_88125af7f04612e8f5e4c0db1725ce61.jpg",
+            "sheetSize": {
+              "height": 435,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 5000.0,
+          "value": 1114.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 205150,
+          "cardName": "Centurion",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Cabal-csprites-sm_68d8b67449fa4bffd07ab5666df72fb2.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 250.0,
+          "value": 41.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 304010,
+          "cardName": "Rocket Launchers",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 0,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/HeavyWeapons-csprites-sm_b1d2afcb797f18592aaeb11ecc353107.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 1000.0,
+          "value": 148.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 303010,
+          "cardName": "Shotguns",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 0,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/SpecialWeapons-csprites-sm_7b2464d86b628276bafe36808dd41eb1.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 321.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 205140,
+          "cardName": "Colossus",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 435,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Cabal-csprites-sm_68d8b67449fa4bffd07ab5666df72fb2.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 125.0,
+          "value": 16.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 303070,
+          "cardName": "Sniper Rifles",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 145
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/SpecialWeapons-csprites-sm_7b2464d86b628276bafe36808dd41eb1.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 234.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 201140,
+          "cardName": "Ogre",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 580,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 2030,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 125.0,
+          "value": 10.0
+        },
+        {
+          "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.",
+          "bonusName": "Glimmer Income Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 203160,
+          "cardName": "Hydra",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 725,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Vex-csprites-sm_f28adfd71b3d85563d6070648cc8305b.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1305,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 125.0,
+          "value": 10.0
+        },
+        {
+          "bonusDescription": "Cloaks, marks, and bonds can now drop in this Playlist.",
+          "bonusName": "Activity Reward Bonus",
+          "bonusRank": {
+            "rank": 1,
+            "statId": 1
+          },
+          "cardId": 608060,
+          "cardName": "Skirmish",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 580,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/CruciblePlaylists-csprites-sm_adc495afd872738cf5a283468d547799.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Match Wins",
+          "threshold": 25.0,
+          "value": 2.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 304040,
+          "cardName": "Machine Guns",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 580,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/HeavyWeapons-csprites-sm_b1d2afcb797f18592aaeb11ecc353107.jpg",
+            "sheetSize": {
+              "height": 145,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 1000.0,
+          "value": 48.0
+        },
+        {
+          "bonusDescription": "Cloaks, marks, and bonds can now drop in this Playlist.",
+          "bonusName": "Activity Reward Bonus",
+          "bonusRank": {
+            "rank": 1,
+            "statId": 1
+          },
+          "cardId": 608030,
+          "cardName": "Control",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 145,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/CruciblePlaylists-csprites-sm_adc495afd872738cf5a283468d547799.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Match Wins",
+          "threshold": 25.0,
+          "value": 1.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 303040,
+          "cardName": "Fusion Rifles",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 870,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/SpecialWeapons-csprites-sm_7b2464d86b628276bafe36808dd41eb1.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 2500.0,
+          "value": 92.0
+        },
+        {
+          "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.",
+          "bonusName": "Weapon XP Bonus",
+          "bonusRank": {
+            "rank": 2,
+            "statId": 1
+          },
+          "cardId": 302090,
+          "cardName": "Hand Cannons",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 870,
+              "y": 145
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/PrimaryWeapons-csprites-sm_88125af7f04612e8f5e4c0db1725ce61.jpg",
+            "sheetSize": {
+              "height": 435,
+              "width": 1595,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Kills",
+          "threshold": 5000.0,
+          "value": 38.0
+        },
+        {
+          "bonusDescription": "Cloaks, marks, and bonds can now drop in this Playlist.",
+          "bonusName": "Activity Reward Bonus",
+          "bonusRank": {
+            "rank": 1,
+            "statId": 1
+          },
+          "cardId": 608040,
+          "cardName": "Clash",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 290,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/CruciblePlaylists-csprites-sm_adc495afd872738cf5a283468d547799.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Match Wins",
+          "threshold": 25.0,
+          "value": 0.0
+        },
+        {
+          "bonusDescription": "Cloaks, marks, and bonds can now drop in this Playlist.",
+          "bonusName": "Activity Reward Bonus",
+          "bonusRank": {
+            "rank": 1,
+            "statId": 1
+          },
+          "cardId": 608070,
+          "cardName": "Salvage",
+          "smallImage": {
+            "rect": {
+              "height": 145,
+              "width": 145,
+              "x": 725,
+              "y": 0
+            },
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/CruciblePlaylists-csprites-sm_adc495afd872738cf5a283468d547799.jpg",
+            "sheetSize": {
+              "height": 290,
+              "width": 1160,
+              "x": 0,
+              "y": 0
+            }
+          },
+          "statName": "Match Wins",
+          "threshold": 25.0,
+          "value": 0.0
+        }
+      ],
+      "cardCollection": [
+        {
+          "cardId": 101005,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 101030,
+          "points": 0,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "7479",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 7479.0
+            },
+            {
+              "displayValue": "72",
+              "statNumber": 2,
+              "value": 72.0
+            },
+            {
+              "displayValue": "87",
+              "statNumber": 3,
+              "value": 87.0
+            }
+          ]
+        },
+        {
+          "cardId": 101100,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 101120,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 101130,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 101140,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 101145,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 102030,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 102050,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 103010,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 103020,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 103030,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 103040,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 103090,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 103094,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": [
+            {
+              "displayValue": "17",
+              "statNumber": 1,
+              "value": 17.0
+            }
+          ]
+        },
+        {
+          "cardId": 104010,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 105010,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 105060,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 105085,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 105090,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 105092,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 105094,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 105096,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 106030,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 106050,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 106070,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 107010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 108005,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 108010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 108030,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 108050,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 108060,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 108070,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 108075,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 108080,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 108090,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 108100,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 108110,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109010,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109020,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109040,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 109050,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109058,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 109060,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109070,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109080,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109100,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109110,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109120,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 109130,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 110010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 201010,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "1884",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 1884.0
+            }
+          ]
+        },
+        {
+          "cardId": 201060,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 201063,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 201070,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 201090,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "783",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 783.0
+            }
+          ]
+        },
+        {
+          "cardId": 201110,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "177",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 177.0
+            }
+          ]
+        },
+        {
+          "cardId": 201120,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "68",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 68.0
+            }
+          ]
+        },
+        {
+          "cardId": 201130,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "742",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 742.0
+            }
+          ]
+        },
+        {
+          "cardId": 201140,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "10",
+              "statNumber": 1,
+              "value": 10.0
+            }
+          ]
+        },
+        {
+          "cardId": 201150,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 202010,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 202030,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 202130,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 202140,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 203010,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "1638",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 1638.0
+            }
+          ]
+        },
+        {
+          "cardId": 203060,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 203065,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 203070,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 203090,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 203110,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 203115,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 203120,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "1048",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 1048.0
+            }
+          ]
+        },
+        {
+          "cardId": 203130,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "216",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 216.0
+            }
+          ]
+        },
+        {
+          "cardId": 203140,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "95",
+              "statNumber": 1,
+              "value": 95.0
+            }
+          ]
+        },
+        {
+          "cardId": 203150,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "177",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 177.0
+            }
+          ]
+        },
+        {
+          "cardId": 203160,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "10",
+              "statNumber": 1,
+              "value": 10.0
+            }
+          ]
+        },
+        {
+          "cardId": 204010,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 204020,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 204120,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 205010,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "836",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 836.0
+            }
+          ]
+        },
+        {
+          "cardId": 205020,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 205050,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 205060,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 205070,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 205080,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 205110,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "187",
+              "statNumber": 1,
+              "value": 187.0
+            }
+          ]
+        },
+        {
+          "cardId": 205120,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "381",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 381.0
+            }
+          ]
+        },
+        {
+          "cardId": 205130,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "173",
+              "statNumber": 1,
+              "value": 173.0
+            }
+          ]
+        },
+        {
+          "cardId": 205140,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "16",
+              "statNumber": 1,
+              "value": 16.0
+            }
+          ]
+        },
+        {
+          "cardId": 205150,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "41",
+              "statNumber": 1,
+              "value": 41.0
+            }
+          ]
+        },
+        {
+          "cardId": 206010,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 206100,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 206110,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 206120,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 207010,
+          "points": 5,
+          "score": 20,
+          "statisticCollection": [
+            {
+              "displayValue": "3995",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                },
+                {
+                  "points": 5,
+                  "rank": 3
+                }
+              ],
+              "statNumber": 1,
+              "value": 3995.0
+            }
+          ]
+        },
+        {
+          "cardId": 207020,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 207050,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 207060,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 207070,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 207080,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 207090,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 207100,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "160",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 160.0
+            }
+          ]
+        },
+        {
+          "cardId": 207120,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "1219",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 1219.0
+            }
+          ]
+        },
+        {
+          "cardId": 207130,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "1655",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 1655.0
+            }
+          ]
+        },
+        {
+          "cardId": 207140,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "53",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 53.0
+            }
+          ]
+        },
+        {
+          "cardId": 207150,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "647",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 647.0
+            }
+          ]
+        },
+        {
+          "cardId": 208010,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 208020,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 208030,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 208040,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 208050,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 208110,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 208112,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 208114,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 208116,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 208120,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 208130,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 209010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 209020,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 209050,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 301005,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 301030,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301040,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301073,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301100,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301103,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301107,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301110,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301117,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301160,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301170,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 301200,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 302010,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "1114",
+              "statNumber": 1,
+              "value": 1114.0
+            }
+          ]
+        },
+        {
+          "cardId": 302050,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "2057",
+              "statNumber": 1,
+              "value": 2057.0
+            }
+          ]
+        },
+        {
+          "cardId": 302070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "1610",
+              "statNumber": 1,
+              "value": 1610.0
+            }
+          ]
+        },
+        {
+          "cardId": 302090,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "38",
+              "statNumber": 1,
+              "value": 38.0
+            }
+          ]
+        },
+        {
+          "cardId": 302110,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 303010,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "321",
+              "statNumber": 1,
+              "value": 321.0
+            }
+          ]
+        },
+        {
+          "cardId": 303040,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "92",
+              "statNumber": 1,
+              "value": 92.0
+            }
+          ]
+        },
+        {
+          "cardId": 303070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "234",
+              "statNumber": 1,
+              "value": 234.0
+            }
+          ]
+        },
+        {
+          "cardId": 303200,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "130",
+              "statNumber": 1,
+              "value": 130.0
+            }
+          ]
+        },
+        {
+          "cardId": 303210,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 304010,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "148",
+              "statNumber": 1,
+              "value": 148.0
+            }
+          ]
+        },
+        {
+          "cardId": 304040,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "48",
+              "statNumber": 1,
+              "value": 48.0
+            }
+          ]
+        },
+        {
+          "cardId": 305030,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 305040,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 307060,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 307070,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 309030,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 309050,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 309060,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 311010,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 311020,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 402010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 402020,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "2960",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 2960.0
+            }
+          ]
+        },
+        {
+          "cardId": 403010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 403020,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 403030,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 403060,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 403070,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 403090,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 403100,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 404010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 404020,
+          "points": 5,
+          "score": 15,
+          "statisticCollection": [
+            {
+              "displayValue": "2590",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 1,
+              "value": 2590.0
+            }
+          ]
+        },
+        {
+          "cardId": 404030,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 404050,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 405010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 405020,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "1911",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 1911.0
+            }
+          ]
+        },
+        {
+          "cardId": 406010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 406020,
+          "points": 5,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "1299",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                }
+              ],
+              "statNumber": 1,
+              "value": 1299.0
+            }
+          ]
+        },
+        {
+          "cardId": 407010,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 407020,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 407025,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 501010,
+          "points": 0,
+          "score": 10,
+          "statisticCollection": [
+            {
+              "displayValue": "57",
+              "rankCollection": [
+                {
+                  "points": 5,
+                  "rank": 1
+                },
+                {
+                  "points": 5,
+                  "rank": 2
+                }
+              ],
+              "statNumber": 3,
+              "value": 57.0
+            }
+          ]
+        },
+        {
+          "cardId": 501040,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 501045,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 501050,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 501060,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 501080,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 501120,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 501140,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502020,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502050,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502060,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502090,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502100,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502110,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502120,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502130,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 502140,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503020,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503030,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503085,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503090,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503110,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503120,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 503130,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504020,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504030,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504060,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504070,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504090,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504100,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504110,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504120,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504130,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 504150,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 509010,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 509062,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 509064,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 509068,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 509072,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 509074,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 509076,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601010,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": [
+            {
+              "displayValue": "36",
+              "statNumber": 1,
+              "value": 36.0
+            }
+          ]
+        },
+        {
+          "cardId": 601030,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601040,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601050,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601080,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601090,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601100,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601110,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601120,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601130,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601140,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601141,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 601142,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601143,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601145,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601146,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601148,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 601149,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 601170,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 603010,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": [
+            {
+              "displayValue": "0",
+              "statNumber": 1,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "cardId": 608010,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": [
+            {
+              "displayValue": "40",
+              "statNumber": 1,
+              "value": 40.0
+            }
+          ]
+        },
+        {
+          "cardId": 608030,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "1",
+              "statNumber": 1,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "cardId": 608040,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "0",
+              "statNumber": 1,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "cardId": 608060,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "2",
+              "statNumber": 1,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "cardId": 608070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": [
+            {
+              "displayValue": "0",
+              "statNumber": 1,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "cardId": 608077,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 609010,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609014,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 609030,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609050,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609060,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609070,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609090,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609130,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 609170,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 611010,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": [
+            {
+              "displayValue": "8",
+              "statNumber": 1,
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "cardId": 613010,
+          "points": 0,
+          "score": 0,
+          "statisticCollection": [
+            {
+              "displayValue": "12",
+              "statNumber": 1,
+              "value": 12.0
+            }
+          ]
+        },
+        {
+          "cardId": 613025,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 688010,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688020,
+          "points": 15,
+          "score": 15
+        },
+        {
+          "cardId": 688030,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688040,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688050,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688060,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688070,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688080,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688090,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688100,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688110,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688120,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688130,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 688140,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688150,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688160,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688170,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688180,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688190,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688200,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688210,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688220,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688230,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688240,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 688250,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 692010,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 692020,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 692030,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 700060,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 700090,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 700120,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "cardId": 700320,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 700410,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 700430,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 700440,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 700450,
+          "points": 10,
+          "score": 10,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 700460,
+          "points": 10,
+          "score": 10
+        },
+        {
+          "cardId": 700540,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 700590,
+          "points": 15,
+          "score": 15,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 700600,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 700660,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 700760,
+          "points": 5,
+          "score": 5
+        },
+        {
+          "cardId": 701180,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701190,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701200,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701210,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701220,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701230,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701240,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701250,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701260,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701270,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701280,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701290,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701300,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701310,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701320,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701400,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701420,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701430,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701440,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701450,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701460,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701470,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701480,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701490,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701500,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701540,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701570,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701620,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701630,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701650,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701750,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        },
+        {
+          "cardId": 701770,
+          "points": 5,
+          "score": 5,
+          "statisticCollection": []
+        }
+      ],
+      "cardsToHide": [],
+      "score": 2135
+    }
+  },
+  "ThrottleSeconds": 0
+}
